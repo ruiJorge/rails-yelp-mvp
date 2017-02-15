@@ -34,6 +34,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem "bootstrap-sass"
 gem "simple_form"
+gem 'font-awesome-sass'
+gem 'autoprefixer-rails'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
